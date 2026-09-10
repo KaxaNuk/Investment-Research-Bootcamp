@@ -1,1 +1,1 @@
-# Investment-Research-Bootcamp
+# Investment Research Bootcamp
